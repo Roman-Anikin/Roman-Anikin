@@ -6,7 +6,7 @@
 
 <br>
 
-### Мой стек технологий:
+### Стек технологий:
 
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge)
 ![Spring](https://img.shields.io/badge/spring-black?style=for-the-badge&logo=spring&logoColor=green)
@@ -17,3 +17,9 @@
 ![Maven](https://img.shields.io/badge/Maven-black?style=for-the-badge&logo=Apache%20Maven&logoColor=red)
 ![Postgres](https://img.shields.io/badge/postgresql-black?style=for-the-badge&logo=postgresql&logoColor=9cf)
 ![Docker](https://img.shields.io/badge/Docker-black?style=for-the-badge&logo=Docker&logoColor=blue)
+
+<br>
+
+### Контакты
+
+[![Telegram](https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nilrike)
